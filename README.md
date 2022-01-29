@@ -14,4 +14,7 @@ Binomial Distributions
 
 * [The Binomial Setting & Binomial Coefficient](the_binomial_setting_and_binomial_coefficient.ipynb)
 
+* [The Binomial Formula](the_binomial_formula.ipynb)
+
+* [Random Variables](random_variables.ipynb)
 
