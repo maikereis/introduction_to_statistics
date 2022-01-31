@@ -18,3 +18,5 @@ Binomial Distributions
 
 * [Random Variables](random_variables.ipynb)
 
+* [The Normal Approximation to the Binomial](the_normal_approximation_to_the_binomial.ipynb)
+
