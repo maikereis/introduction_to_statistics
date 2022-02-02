@@ -20,3 +20,17 @@ Binomial Distributions
 
 * [The Normal Approximation to the Binomial](the_normal_approximation_to_the_binomial.ipynb)
 
+The Expected Value, Standard Error, and Sampling Distribution of a Statistic
+
+* [Introduction](parameter_and_statistic.ipynb)
+
+* [The Expected Value](the_expected_value.ipynb)
+
+* [Expected Value & Standard Error for the Sum, Percents, and When simulating](EV_SE_for_sum_percents_and_simulating.ipynb)
+
+* [The Square Root Law](the_square_root_law.ipynb)
+
+* [The Sampling Distribution](the_sampling_distribution.ipynb)
+
+* [Three Histograms](three_histograms.ipynb)
+
