@@ -34,3 +34,10 @@ The Expected Value, Standard Error, and Sampling Distribution of a Statistic
 
 * [Three Histograms](three_histograms.ipynb)
 
+The Law of Large Number and the Central Limit Teorem
+
+* [The Law of Large Numbers](the_law_of_large_number.ipynb)
+
+* [The Central Limit Theorem](the_central_limit_theorem.ipynb)
+
+* [When does the Central Limit Theorem Apply?](when_does_the_central_limit_theorem_apply.ipynb)
