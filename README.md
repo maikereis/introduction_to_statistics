@@ -54,7 +54,7 @@ The Law of Large Number and the Central Limit Teorem
 
 Correlation
 
-*[The Correlation Coeficient](the_correlation_coefficient.ipynb)
+* [The Correlation Coeficient](the_correlation_coefficient.ipynb)
 
-*[Correlation Measures Linear Association](correlation_measures_linear_association.ipynb)
+* [Correlation Measures Linear Association](correlation_measures_linear_association.ipynb)
 
