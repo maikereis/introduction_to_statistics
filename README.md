@@ -63,3 +63,7 @@ Inference in Regression
 * [Regression Line and the Method of Least Squares](week4/regression_line_and_the_method_of_least_squares.ipynb) 
 
 * [Regression to the Mean, The Regression Fallacy](week4/regression_to_the_mean_the_regression_fallacy.ipynb)
+
+* [Predicting y from x and x from y](weel4/predicting_y_from_x_and_x_from_y.ipynb)
+
+* [Normal Approximation Given x](week4/normal_approximation_given_x.ipynb)
