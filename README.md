@@ -70,4 +70,4 @@ Inference in Regression
 
 Residuals
 
-*[Residual Plots, Heteroscedasticity, and Transformations](week4/residual_plots_heteroscedasticity_and_transformations.ipynb)
+* [Residual Plots, Heteroscedasticity, and Transformations](week4/residual_plots_heteroscedasticity_and_transformations.ipynb)
