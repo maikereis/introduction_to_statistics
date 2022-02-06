@@ -67,3 +67,7 @@ Inference in Regression
 * [Predicting y from x and x from y](weel4/predicting_y_from_x_and_x_from_y.ipynb)
 
 * [Normal Approximation Given x](week4/normal_approximation_given_x.ipynb)
+
+Residuals
+
+*[Residual Plots, Heteroscedasticity, and Transformations](week4/residual_plots_heteroscedasticity_and_transformations.ipynb)
