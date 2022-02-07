@@ -64,10 +64,12 @@ Inference in Regression
 
 * [Regression to the Mean, The Regression Fallacy](week4/regression_to_the_mean_the_regression_fallacy.ipynb)
 
-* [Predicting y from x and x from y](weel4/predicting_y_from_x_and_x_from_y.ipynb)
+* [Predicting y from x and x from y](week4/predicting_y_from_x_and_x_from_y.ipynb)
 
 * [Normal Approximation Given x](week4/normal_approximation_given_x.ipynb)
 
 Residuals
 
 * [Residual Plots, Heteroscedasticity, and Transformations](week4/residual_plots_heteroscedasticity_and_transformations.ipynb)
+
+* [Some Other Issues](week4/some_other_issues.ipynb)
