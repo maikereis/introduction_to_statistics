@@ -73,3 +73,15 @@ Residuals
 * [Residual Plots, Heteroscedasticity, and Transformations](week4/residual_plots_heteroscedasticity_and_transformations.ipynb)
 
 * [Some Other Issues](week4/some_other_issues.ipynb)
+
+## Week 4
+
+### Confidence Intervals
+
+Introduction
+
+* [Interpretation of a Confidence Interval](week5/interpretation_of_a_confidence_interval.ipynb)
+
+Confidence Intervals via the Central Limit Theorem
+
+* [Using the Central Limit Theorem to Find a Confidence Interval](week5/using_the_central_limit_theorem_to_find_a_confidence_interval.ipynb)
