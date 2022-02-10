@@ -74,7 +74,7 @@ Residuals
 
 * [Some Other Issues](week4/some_other_issues.ipynb)
 
-## Week 4
+## Week 5
 
 ### Confidence Intervals
 
@@ -85,3 +85,5 @@ Introduction
 Confidence Intervals via the Central Limit Theorem
 
 * [Using the Central Limit Theorem to Find a Confidence Interval](week5/using_the_central_limit_theorem_to_find_a_confidence_interval.ipynb)
+
+* [Estimating the Standard Error with the Bootstrap Principle](week5/estimating_the_standard_error_with_the_bootstrap_principle.ipynb)
