@@ -88,4 +88,4 @@ Confidence Intervals via the Central Limit Theorem
 
 * [Estimating the Standard Error with the Bootstrap Principle](week5/estimating_the_standard_error_with_the_bootstrap_principle.ipynb)
 
-* [More About Confidence Intervals](more_about_confidence_intervals.ipynb)
+* [More About Confidence Intervals](week5/more_about_confidence_intervals.ipynb)
