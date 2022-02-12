@@ -97,3 +97,7 @@ Tests of Significance
 * [Setting Up a Test Statistic](week5/setting_up_a_test_statistic.ipynb)
 
 * [p-values as Measures of Evidence](week5/p-values_as_measures_of_evidence.ipynb)
+
+* [More on Testing](week5/more_on_test.ipynb)
+
+* [The t-test](week5/the_t_test.ipynb)
