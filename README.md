@@ -89,3 +89,11 @@ Confidence Intervals via the Central Limit Theorem
 * [Estimating the Standard Error with the Bootstrap Principle](week5/estimating_the_standard_error_with_the_bootstrap_principle.ipynb)
 
 * [More About Confidence Intervals](week5/more_about_confidence_intervals.ipynb)
+
+Tests of Significance
+
+* [The Idea Behind Testing Hypotheses](week5/the_ideia_behind_testing_hypotheses.ipynb)
+
+* [Setting Up a Test Statistic](week5/setting_up_a_test_statistic.ipynb)
+
+* [p-values as Measures of Evidence](week5/p-values_as_measures_of_evidence.ipynb)
