@@ -101,3 +101,7 @@ Tests of Significance
 * [More on Testing](week5/more_on_test.ipynb)
 
 * [The t-test](week5/the_t_test.ipynb)
+
+* [Statistical Significance vs. Importance](week5/statistical_significance_vs_importance.ipynb)
+
+* [The Two-Sample z-test](week5/the_two_sample_z_test.ipynb)
