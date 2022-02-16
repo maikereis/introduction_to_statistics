@@ -105,3 +105,5 @@ Tests of Significance
 * [Statistical Significance vs. Importance](week5/statistical_significance_vs_importance.ipynb)
 
 * [The Two-Sample z-test](week5/the_two_sample_z_test.ipynb)
+
+* [Matched Pairs](week5/the_paired_difference_test.ipynb)
