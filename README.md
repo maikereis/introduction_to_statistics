@@ -26,9 +26,11 @@ Binomial Distributions
 
 ### Sampling distributions and the Central Limit Theorem
 
-The Expected Value, Standard Error, and Sampling Distribution of a Statistic
+Introduction
 
 * [Introduction](week3/parameter_and_statistic.ipynb)
+
+The Expected Value, Standard Error, and Sampling Distribution of a Statistic
 
 * [The Expected Value](week3/the_expected_value.ipynb)
 
@@ -90,20 +92,45 @@ Confidence Intervals via the Central Limit Theorem
 
 * [More About Confidence Intervals](week5/more_about_confidence_intervals.ipynb)
 
-Tests of Significance
+### Tests of Significance
+
+Introduction
 
 * [The Idea Behind Testing Hypotheses](week5/the_ideia_behind_testing_hypotheses.ipynb)
+
+Test Statistics and p-values
 
 * [Setting Up a Test Statistic](week5/setting_up_a_test_statistic.ipynb)
 
 * [p-values as Measures of Evidence](week5/p-values_as_measures_of_evidence.ipynb)
 
-* [More on Testing](week5/more_on_test.ipynb)
+More on Testing
+
+* [More on Testing](week5/more_on_testing.ipynb)
 
 * [The t-test](week5/the_t_test.ipynb)
 
 * [Statistical Significance vs. Importance](week5/statistical_significance_vs_importance.ipynb)
 
+Comparing Two Populations
+
 * [The Two-Sample z-test](week5/the_two_sample_z_test.ipynb)
 
 * [Matched Pairs](week5/the_paired_difference_test.ipynb)
+
+## Week 6
+## Resampling
+
+The Monte Carlo Method
+
+* [The Monte Carlo Method](week6/the_monte_carlo_method.ipynb)
+
+The Boostrap
+
+* [The Boostrap principle](week6/the_boostrap_principle.ipynb)
+
+More About BootStrap
+
+* [The Parametric Bootstrap and Bootstrap Confidence Intervals](week6/the_parametric_boostrap.ipynb)
+
+* [Bootstrapping in Regression](week6/boostrapping_in_regression.ipynb)
