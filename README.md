@@ -134,3 +134,16 @@ More About BootStrap
 * [The Parametric Bootstrap and Bootstrap Confidence Intervals](week6/the_parametric_boostrap.ipynb)
 
 * [Bootstrapping in Regression](week6/boostrapping_in_regression.ipynb)
+
+## Analysis of Categorial Data
+
+Introduction
+
+* [Categorical Data](week6/categorical_data.ipynb)
+
+The Chi-square Test for Goodness of Fit
+
+* [The Color Proportions of M&Ms](week6/the_color_proportions_of_M&Ms.ipynb)
+
+The Chi-square Test for Homogeneity and independence
+
