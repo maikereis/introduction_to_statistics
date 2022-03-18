@@ -147,3 +147,4 @@ The Chi-square Test for Goodness of Fit
 
 The Chi-square Test for Homogeneity and independence
 
+* [The Chi-Square Test for Homogeneity and Independence](week6/the_chi_square_test_for_homogeneity&independence.ipynb)
