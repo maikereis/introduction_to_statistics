@@ -156,3 +156,7 @@ The Chi-square Test for Homogeneity and independence
 Introduction
 
 * [Comparing several groups of data](week7/comparing_several_groups_of_data.ipynb)
+
+The Analysis of Variance F-Test
+
+* [The Idea of Analysis of Variance](week7/the_idea_of_analysis_of_variance.ipynb)
