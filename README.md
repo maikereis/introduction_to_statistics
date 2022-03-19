@@ -153,3 +153,6 @@ The Chi-square Test for Homogeneity and independence
 ## Week 7
 ## One-Way Analysis of Variance (ANOVA)
 
+Introduction
+
+* [Comparing several groups of data](week7/comparing_several_groups_of_data.ipynb)
