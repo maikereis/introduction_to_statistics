@@ -164,3 +164,7 @@ The Analysis of Variance F-Test
 Using the F Distribution to Evaluate ANOVA
 
 * [The Analysis of Variance F-test](week7/the_analysis_of_variance_f_test.ipynb)
+
+More on ANOVA
+
+* [More on ANOVA](week7/more_on_anova.ipynb)
