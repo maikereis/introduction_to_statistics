@@ -176,4 +176,6 @@ Data Snooping and the Multiple Testing Fallacy, Reproducibility and Replicabilit
 
 * [Data Snooping and the Multiple Testing Fallacy](week8/data_snooping_and_more.ipynb)
 
+Accounting for Multiple Comparisons
+
 * [Bonferroni Correction, False Discovery Rate, and Data Splitting](week8/bonferroni_correction_and_more.ipynb)
