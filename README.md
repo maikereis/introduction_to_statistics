@@ -42,7 +42,7 @@ The Expected Value, Standard Error, and Sampling Distribution of a Statistic
 
 * [Three Histograms](week3/three_histograms.ipynb)
 
-The Law of Large Number and the Central Limit Teorem
+The Law of Large Number and the Central Limit Theorem
 
 * [The Law of Large Numbers](week3/the_law_of_large_number.ipynb)
 
@@ -56,7 +56,7 @@ The Law of Large Number and the Central Limit Teorem
 
 Correlation
 
-* [The Correlation Coeficient](week4/the_correlation_coefficient.ipynb)
+* [The Correlation Coefficient](week4/the_correlation_coefficient.ipynb)
 
 * [Correlation Measures Linear Association](week4/correlation_measures_linear_association.ipynb)
 
@@ -96,7 +96,7 @@ Confidence Intervals via the Central Limit Theorem
 
 Introduction
 
-* [The Idea Behind Testing Hypotheses](week5/the_ideia_behind_testing_hypotheses.ipynb)
+* [The Idea Behind Testing Hypotheses](week5/the_idea_behind_testing_hypotheses.ipynb)
 
 Test Statistics and p-values
 
@@ -125,17 +125,17 @@ The Monte Carlo Method
 
 * [The Monte Carlo Method](week6/the_monte_carlo_method.ipynb)
 
-The Boostrap
+The Bootstrap
 
-* [The Boostrap principle](week6/the_boostrap_principle.ipynb)
+* [The Bootstrap principle](week6/the_bootstrap_principle.ipynb)
 
 More About BootStrap
 
-* [The Parametric Bootstrap and Bootstrap Confidence Intervals](week6/the_parametric_boostrap.ipynb)
+* [The Parametric Bootstrap and Bootstrap Confidence Intervals](week6/the_parametric_bootstrap.ipynb)
 
-* [Bootstrapping in Regression](week6/boostrapping_in_regression.ipynb)
+* [Bootstrapping in Regression](week6/bootstrapping_in_regression.ipynb)
 
-## Analysis of Categorial Data
+## Analysis of Categorical Data
 
 Introduction
 
@@ -168,3 +168,8 @@ Using the F Distribution to Evaluate ANOVA
 More on ANOVA
 
 * [More on ANOVA](week7/more_on_anova.ipynb)
+
+## Week 8
+## Multiple Comparisons
+
+* [Data Snooping and the Multiple Testing Fallacy, Reproducibility and Replicability](week8/data_snooping_and_more.ipynb)
