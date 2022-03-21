@@ -1,6 +1,11 @@
 {
     "cSpell.words": [
         "ANOVA",
-        "Heteroscedasticity"
+        "Bonferroni",
+        "boxplots",
+        "ggplot",
+        "Heteroscedasticity",
+        "ipynb",
+        "pyplot"
     ]
 }

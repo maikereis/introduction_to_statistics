@@ -172,4 +172,8 @@ More on ANOVA
 ## Week 8
 ## Multiple Comparisons
 
-* [Data Snooping and the Multiple Testing Fallacy, Reproducibility and Replicability](week8/data_snooping_and_more.ipynb)
+Data Snooping and the Multiple Testing Fallacy, Reproducibility and Replicability
+
+* [Data Snooping and the Multiple Testing Fallacy](week8/data_snooping_and_more.ipynb)
+
+* [Bonferroni Correction, False Discovery Rate, and Data Splitting](week8/bonferroni_correction_and_more.ipynb)
