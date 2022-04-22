@@ -1,3 +1,7 @@
+## Classes notes from "Introduction to Statistics" course.
+
+Available on: https://www.coursera.org/learn/stanford-statistics
+
 ## Reading order
 
 ## Week 3
