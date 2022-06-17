@@ -46,8 +46,6 @@ fonttools==4.31.1
     # via matplotlib
 identify==2.4.12
     # via pre-commit
-importlib-resources==5.4.0
-    # via jsonschema
 iniconfig==1.1.1
     # via pytest
 ipykernel==6.9.2
@@ -119,7 +117,7 @@ nest-asyncio==1.5.4
     #   notebook
 nodeenv==1.6.0
     # via pre-commit
-notebook==6.4.10
+notebook==6.4.12
     # via -r requirements.in
 numpy==1.22.3
     # via
@@ -271,8 +269,6 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
-zipp==3.7.0
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
